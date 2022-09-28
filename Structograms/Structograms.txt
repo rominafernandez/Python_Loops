@@ -1,0 +1,10 @@
+Exercise 26 - Structograms
+
+* Create some structograms on paper for the programs you created for the exercises 25, 24, 23 and 06
+* Exercise 6 – The if statements for four inputs:
+* Input 1 = Input 2 and Input 3 = Input 4
+* Input 1 = Input 3 and Input 2 = Input 4
+* Input 1 = Input 4 or Input 2 = Input 3
+* Exercise 23 – for your for loop that calculates the sum
+* Exercise 24 – for your while loop that searches for a specific number
+* Exercise 25 – for your loops that find the maximal value
