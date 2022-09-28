@@ -10,5 +10,5 @@ All exercises done in the loops part of module 1.
 * Exercise 25 - Loop trough a matrix: [`MatrixLoop.py`](https://github.com/rominafernandez/Python_Loops/blob/master/MatrixLoop.py)
 
 **Pseudocode**
-* Exercise 27 - Pseudocode:
-* Exercise 26 - Structograms:
+* Exercise 27 - Pseudocode: [`Pseudocode.txt`](https://github.com/rominafernandez/Python_Loops/blob/master/Pseudocode.txt)
+* Exercise 26 - Structograms: [subfolder Structograms](https://github.com/rominafernandez/Python_Loops/tree/master/Structograms)
